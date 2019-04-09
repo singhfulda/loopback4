@@ -1,0 +1,6 @@
+{
+  "name": "inmem",
+  "connector": "memory",
+  "localStorage": "",
+  "file": ""
+}
